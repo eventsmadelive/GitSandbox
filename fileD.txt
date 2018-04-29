@@ -1,9 +1,4 @@
-<<<<<<< Updated upstream
-This is fileD. It has been added when the upstream has not been updated to simulate making commits when collaborating and master is updated without me knowing
-=======
 Update file D
 This file will be updated by this commit
 
 This is fileD. It has been added when the upstream has not been updated to simulate making commits when collaborating and master is updated without me knowing
-
->>>>>>> Stashed changes
