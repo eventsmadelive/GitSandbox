@@ -1,2 +1,8 @@
 Let’s see how this works. This was created after file F was merged in
 "favorite color":"red"
+
+This is an edit (simulating a bug fix) while waiting for pull request to go through
+
+"name":"popwebz"
+"favorite ice cream":"rocky road (currently)"
+"favorite cookie":"chocolate chip"
